@@ -1,0 +1,26 @@
+// WooCommerce product categories (public Store API), 2026-11-17.
+export const CATEGORIES: { name: string; slug: string; count: number; href: string }[] = [
+  {"name": "Technology", "slug": "technology", "count": 122, "href": "/guestposts-category/technology/"},
+  {"name": "Business", "slug": "business", "count": 119, "href": "/guestposts-category/business/"},
+  {"name": "Lifestyle", "slug": "lifestyle", "count": 86, "href": "/guestposts-category/lifestyle/"},
+  {"name": "Health", "slug": "health", "count": 66, "href": "/guestposts-category/health/"},
+  {"name": "News", "slug": "news", "count": 51, "href": "/guestposts-category/news/"},
+  {"name": "Finance", "slug": "finance", "count": 47, "href": "/guestposts-category/finance/"},
+  {"name": "Fashion", "slug": "fashion", "count": 45, "href": "/guestposts-category/fashion/"},
+  {"name": "Entertainment", "slug": "entertainment", "count": 40, "href": "/guestposts-category/entertainment/"},
+  {"name": "General", "slug": "general", "count": 38, "href": "/guestposts-category/general/"},
+  {"name": "Education", "slug": "education", "count": 35, "href": "/guestposts-category/education/"},
+  {"name": "Home & Garden", "slug": "home-garden", "count": 30, "href": "/guestposts-category/home-garden/"},
+  {"name": "Software", "slug": "software", "count": 29, "href": "/guestposts-category/software/"},
+  {"name": "AI", "slug": "ai", "count": 27, "href": "/guestposts-category/ai/"},
+  {"name": "Real Estate", "slug": "real-estate", "count": 26, "href": "/guestposts-category/real-estate/"},
+  {"name": "Marketing", "slug": "marketing", "count": 20, "href": "/guestposts-category/marketing/"},
+  {"name": "Gadgets", "slug": "gadgets", "count": 18, "href": "/guestposts-category/gadgets/"},
+  {"name": "Automotive", "slug": "automotive", "count": 14, "href": "/guestposts-category/automotive/"},
+  {"name": "Gaming", "slug": "gaming", "count": 14, "href": "/guestposts-category/gaming/"},
+  {"name": "Music", "slug": "music", "count": 8, "href": "/guestposts-category/music/"},
+  {"name": "Events", "slug": "events", "count": 7, "href": "/guestposts-category/events/"},
+  {"name": "SEO", "slug": "seo", "count": 7, "href": "/guestposts-category/seo/"},
+  {"name": "Travel", "slug": "travel", "count": 2, "href": "/guestposts-category/travel/"},
+  {"name": "Beauty", "slug": "beauty", "count": 1, "href": "/guestposts-category/beauty/"}
+];
